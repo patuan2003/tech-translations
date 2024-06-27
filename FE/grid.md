@@ -84,7 +84,7 @@ Trong đoạn mã này, cũng như trong mã Grid, trình duyệt sẽ tạo ra 
 ```
 
 Hình ảnh dưới đây cho thấy mục danh sách cuối cùng, có số lẻ, kéo dài qua hai cột, nhờ vào thuộc tính flex-grow.
-![alt text](./images/1684338555flexbox-grid-layout.png)
+![alt text](./images/image.png)
 
 ```
 Lưu ý: trong cả hai giải pháp Grid và Flexbox, nếu chúng ta thêm một khoảng trống, không gian đó sẽ được trừ đi khi tính toán số cột có thể tạo trước khi thêm hàng mới.
