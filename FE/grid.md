@@ -17,7 +17,7 @@ Dưới đây là tất cả những gì cần thiết để thực hiện bố 
 
 Vì 1fr là giá trị "max" của minmax(), các cột cũng được phép giãn ra để lấp đầy không gian còn lại trong một hàng một cách đồng đều. Vì vậy, nếu không gian có sẵn là 80ch và có hai phần tử con của lưới, mỗi cột sẽ chiếm 40ch. Nếu có ba phần tử con, phần tử thứ ba sẽ nằm ở hàng thứ hai, vì 80 không chia đều cho kích thước tối thiểu cho phép là 30ch.
 
-    CodePen demo này cung cấp một ví dụ trực tiếp về bố cục Grid đáp ứng.
+> CodePen demo này cung cấp một ví dụ trực tiếp về bố cục Grid.
 
 ```html
 <style>
@@ -84,7 +84,7 @@ Trong đoạn mã này, cũng như trong mã Grid, trình duyệt sẽ tạo ra 
 ```
 
 Hình ảnh dưới đây cho thấy mục danh sách cuối cùng, có số lẻ, kéo dài qua hai cột, nhờ vào thuộc tính flex-grow.
-![alt text](./images/image.png)
+![alt text](image.png)
 
 ```
 Lưu ý: trong cả hai giải pháp Grid và Flexbox, nếu chúng ta thêm một khoảng trống, không gian đó sẽ được trừ đi khi tính toán số cột có thể tạo trước khi thêm hàng mới.
