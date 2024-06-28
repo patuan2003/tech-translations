@@ -187,7 +187,7 @@ Dưới đây là hai kỹ thuật `Flexbox` khác sử dụng `flex-grow` và `
 
 ### Sự khác biệt giữa CSS Grid và Flexbox là gì?
 
-`CSS Grid` và `Flexbox` đều là các hệ thống bố cục mạnh mẽ trong CSS. Mặc dù chúng có thể được sử dụng cùng nhau, nhưng mỗi hệ thống đều có những ưu điểm riêng. `CSS Grid` là một hệ thống hai chiều, nghĩa là nó có thể xử lý cả cột và hàng, `making it ideal for web page layout` (tạo ý tưởng cho bố cục trang web). Mặt khác, Flex`box là một mô hình bố cục một chiều và được sử dụng để thiết kế bố cục quy mô nhỏ, trong khi` CSS grid` được dành cho bố cục quy mô lớn.
+`CSS Grid` và `Flexbox` đều là các hệ thống bố cục mạnh mẽ trong CSS. Mặc dù chúng có thể được sử dụng cùng nhau, nhưng mỗi hệ thống đều có những ưu điểm riêng. `CSS Grid` là một hệ thống hai chiều, nghĩa là nó có thể xử lý cả cột và hàng, `making it ideal for web page layout` (tạo ý tưởng cho bố cục trang web). Mặt khác, `Flexbox` là một mô hình bố cục một chiều và được sử dụng để thiết kế bố cục quy mô nhỏ, trong khi `CSS grid` được dành cho bố cục quy mô lớn.
 
 ### Làm thế nào để tạo bố cục đáp ứng mà không cần sử dụng media query?
 
